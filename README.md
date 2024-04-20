@@ -34,8 +34,7 @@ As the visual representations of the data will exhibit,  hospitals tend to spend
 
 “CMS will omit Quarter 1 and Quarter 2 2020 (January 1–June 30, 2020) data from publicly reporting, including claims-based measures. CMS will include data from Q3 2020 (July 1, 2020) onward.While the COVID-19 PHE did not end June 30, 2020, CMS is committed to empowering consumers to make informed decisions.” It can be concluded that the CMS made the decision to omit this data based on the inaccurate representation of Medicare claims spending, which was skewed by the immense patient load in hospitals during the PHE. The data for the other three years under analysis begins January 1st and ends Dec 31st of each year, whereas for 2020 the data begins in July - meaning that 6 months of data was omitted from public record.
 
-CONCLUSIONS: 
-Most Medicare claims spending can be 
+
 
 
 
