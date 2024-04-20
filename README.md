@@ -22,6 +22,11 @@ QUESTION FORMULATION:
 
 After an initial overview of our data and recognizing the main varibles or data points in the files, we unearthed important entry points for analysis. Through understanding patterns of claims spending on a granular level, (for eg. What was the most spent on claim type?) we were able to apply relevant filters to the data to get a clearer picture of Medicare claims spending and the story it tells about Medicare's functions.
 
+PROJECT IMPROVEMENTS/ADDITIONS: 
+
+An interesting and revealing avenue for analysis for Medicare claims spending during COVID this group hopes to use to enhance this project, is State's policy responses to COVID. Did States with more lax masing laws see more hospitalizations? And did those hospitlizations directly correlate with higher claims spending in those States? 
+
+
 --------------------------------------------------------------------------------------
 
 The datasets under analysis describe average hospital spending levels of Medicare beneficiary episodes, and span over the years 2019-2022. This study has chosen to focus on this time period to analyze how hospital spending behavior on Medicare Claims was impacted by the COVID National Health Emergency (referred to as NHE). Before delving into the discoveries made by this study, it is pivotal to understand the data by briefly discussing the different types of Medicare claims and their timelines (or ‘duration periods’). 
