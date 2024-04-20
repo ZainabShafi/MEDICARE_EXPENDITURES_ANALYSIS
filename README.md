@@ -3,6 +3,7 @@ Hospital Medicare Expenditures: Pre, During, Post Covid
 Zainab Shafi, Key Caughey, Kevin Xie, Wally Diaz
 
 OVERVIEW(see below for a more detailed project overview): 
+
 This study analyzed 4 years of CMS (Center for Medicare and Medicaid Services) claims expenditure data spanning 2019-2022 and formulated the following questions for exploration: 
 How does Medicare spending behavior vary across states, and what is the impact of COVID-19?
 Which claim types see the highest spending? 
@@ -13,6 +14,7 @@ What forecasts can the data provide for future Medicare spending trends?
 Through answering these questions with evidence from the chosen data, this investigation was successfully able to present distinct patterns in Medicare claims expenditures, and observe the impact COVID-19 had on these patterns. 
 
 DIVISION OF LABOR: 
+
 Zainab Shafi/Key Caughey = Data cleaning and data frames creation 
 Kevin Xie/Wally Diaz = Data visualizations
 
@@ -20,7 +22,7 @@ QUESTION FORMULATION:
 
 After an initial overview of our data and recognizing the main varibles or data points in the files, we unearthed important entry points for analysis. Through understanding patterns of claims spending on a granular level, (for eg. What was the most spent on claim type?) we were able to apply relevant filters to the data to get a clearer picture of Medicare claims spending and the story it tells about Medicare's functions.
 
-
+--------------------------------------------------------------------------------------
 
 The datasets under analysis describe average hospital spending levels of Medicare beneficiary episodes, and span over the years 2019-2022. This study has chosen to focus on this time period to analyze how hospital spending behavior on Medicare Claims was impacted by the COVID National Health Emergency (referred to as NHE). Before delving into the discoveries made by this study, it is pivotal to understand the data by briefly discussing the different types of Medicare claims and their timelines (or ‘duration periods’). 
 
